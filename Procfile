@@ -1,1 +1,1 @@
-worker: gunicorn app:app & python -m bot
+worker: apt-get install gunicorn
