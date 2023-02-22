@@ -5,7 +5,6 @@ class Messages:
         "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁**__"
         "\n\n**__You can know more from /help.__**"
         "\n**__Or use /login to get started.__**"
-        "\n\n**__Join @HXBots for More Bots...__**"
     )
 
     HELP_MSG = [
